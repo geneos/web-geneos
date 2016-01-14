@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /backups
+Disallow: /crm
+Disallow: /mantis
+Allow: /liberado
