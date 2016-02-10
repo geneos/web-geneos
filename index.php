@@ -47,7 +47,7 @@
 				<li data-slide="2" class="col-12 col-sm-2"><a id="menu-link-2" href="#slide-2" title="Siguiente"><span class="icon fa fa-list-alt"></span> <span class="text">SERVICIOS</span></a></li>
 				<li data-slide="3" class="col-12 col-sm-2"><a id="menu-link-3" href="#slide-3" title="Siguiente"><span class="icon fa fa-gears"></span> <span class="text">TECNOLOGÍAS</span></a></li>
 				<li data-slide="4" class="col-12 col-sm-2"><a id="menu-link-4" href="#slide-4" title="Siguiente"><span class="icon fa fa-group"></span> <span class="text">QUIENES SOMOS</span></a></li>
-				<li data-slide="5" class="col-12 col-sm-2"><a id="menu-link-5" href="#slide-5" title="Siguiente"><span class="icon fa fa-exchange"></span> <span class="text">PORTFOLIO</span></a></li>
+				<li data-slide="5" class="col-12 col-sm-2"><a id="menu-link-5" href="#slide-5" title="Siguiente"><span class="icon fa fa-suitcase"></span> <span class="text">PORTFOLIO</span></a></li>
 				<li data-slide="6" class="col-12 col-sm-2"><a id="menu-link-6" href="#slide-6" title="Siguiente"><span class="icon fa fa-envelope"></span> <span class="text">CONTACTO</span></a></li>
 			</ul>
 				<div class="row">
