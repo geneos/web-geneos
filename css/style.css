@@ -160,7 +160,7 @@ body {
 }
 
 #special-active-menu-5 {
-	background-color: #e67e22 !important;
+	background-color: #cd2026 !important;
 }
 
 #special-active-menu-6 {
@@ -268,7 +268,11 @@ body {
 	background-attachment: fixed; 
 }
 
-.bg-facttic {
+.separator.color{
+	background-color: #f39c12;
+}
+
+.separator.bg-facttic {
 	background-image: url('../images/facttic.jpg');
 }
 
@@ -499,7 +503,7 @@ body {
 }
 
 #slide-5 {
-	background-color: #f39c12;
+	background-color:#cd2026;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -737,4 +741,8 @@ nav#filter a {
 .portfolio-item .portfolio-desc .folio-info p {
     color: #ffffff;
     font-size: 12px;
+}
+
+#porfolio-container{
+	width:3000px;
 }

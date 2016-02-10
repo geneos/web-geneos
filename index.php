@@ -73,7 +73,7 @@
 			<div id="home-row-1" class="row clearfix">
 				<div class="col-12">
 					<h1>
- 					<img src="images/logo.png" class="imgresp" alt="Cooperativa GENEOS">
+ 					<img width="567" height="255"src="images/logo.png" class="imgresp" alt="Cooperativa GENEOS">
 					</h1>
 					<h4 class="font-thin">Cooperativa <span class="font-semibold">Software Libre</span> Ltda.</h4>
 					<br>
@@ -277,7 +277,7 @@
 
 	</div><!-- /slide3 -->
 
-	<div class="separator">
+	<div class="separator color">
 		<div class="container">
 				<div class="row">
 					<div class="col-12 font-thin">La <span class="font-semibold">igualdad</span> nos <span class="font-semibold">une</span>
